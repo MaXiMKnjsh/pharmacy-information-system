@@ -1,0 +1,44 @@
+D:\MyCW\MyCW\obj\Debug\MyCW.csproj.AssemblyReference.cache
+D:\MyCW\MyCW\obj\Debug\MyCW.csproj.SuggestedBindingRedirects.cache
+D:\MyCW\MyCW\obj\Debug\MyCW.MainForm.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.Properties.Resources.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.csproj.GenerateResource.cache
+D:\MyCW\MyCW\obj\Debug\MyCW.csproj.CoreCompileInputs.cache
+D:\MyCW\MyCW\bin\Debug\MyCW.exe.config
+D:\MyCW\MyCW\bin\Debug\MyCW.exe
+D:\MyCW\MyCW\bin\Debug\MyCW.pdb
+D:\MyCW\MyCW\obj\Debug\MyCW.exe
+D:\MyCW\MyCW\obj\Debug\MyCW.pdb
+D:\MyCW\MyCW\obj\Debug\MyCW.SubFormOrders.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.SubFormGoods.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.SubFormSettings.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.SubFormStaff.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.Resources.SignIn.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.CreateAnAccount.resources
+D:\MyCW\MyCW\obj\Debug\MyCW.HelpMe.resources
+D:\MyCW\MyCW\bin\Debug\MyCW.exe.manifest
+D:\MyCW\MyCW\bin\Debug\MyCW.application
+D:\MyCW\MyCW\obj\Debug\MyCW.exe.manifest
+D:\MyCW\MyCW\obj\Debug\MyCW.application
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\bin\Debug\MyCW.exe.config
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\bin\Debug\MyCW.exe.manifest
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\bin\Debug\MyCW.application
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\bin\Debug\MyCW.exe
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\bin\Debug\MyCW.pdb
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.csproj.AssemblyReference.cache
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.csproj.SuggestedBindingRedirects.cache
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.CreateAnAccount.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.HelpMe.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.MainForm.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.Properties.Resources.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.Resources.SignIn.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.SubFormGoods.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.SubFormOrders.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.SubFormSettings.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.SubFormStaff.resources
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.csproj.GenerateResource.cache
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.csproj.CoreCompileInputs.cache
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.exe.manifest
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.application
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.exe
+D:\homework\2 grade 3 semester\object oriented programming\MyCW\MyCW\obj\Debug\MyCW.pdb
